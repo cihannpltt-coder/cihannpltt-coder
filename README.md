@@ -1,16 +1,19 @@
-## Hi there 👋
+# Cihan Polat
 
-<!--
-**cihannpltt-coder/cihannpltt-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geomatics Engineering student passionate about **GIS, remote sensing, image processing, and spatial data analysis**.
 
-Here are some ideas to get you started:
+## About Me
+I am interested in geospatial technologies and analytical methods for solving real-world spatial problems.  
+Currently improving my skills in GIS software, Python, and remote sensing applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- QGIS
+- ArcGIS
+- Netcad
+- Python
+- Spatial Analysis
+- Raster & Vector Processing
+
+## Contact
+- LinkedIn: [linkedin.com/in/cihan-polat-43280a191](https://www.linkedin.com/in/cihan-polat-43280a191/)
+- Email: cihannpltt@gmail.com
